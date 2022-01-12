@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd317e48.css",
+    "main.js": "/static/js/main.a2b18cf6.js",
+    "static/media/image 14.png": "/static/media/image 14.a03b7064ccb2b843057c.png",
+    "static/media/rabochi fon.png": "/static/media/rabochi fon.c7dad21c9e365b5443fc.png",
+    "static/media/rasm.png": "/static/media/rasm.fd9de8680165555301b1.png",
+    "static/media/image 13.png": "/static/media/image 13.4554c8be7e41fa01eb72.png",
+    "index.html": "/index.html",
+    "main.cd317e48.css.map": "/static/css/main.cd317e48.css.map",
+    "main.a2b18cf6.js.map": "/static/js/main.a2b18cf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd317e48.css",
+    "static/js/main.a2b18cf6.js"
+  ]
+}
